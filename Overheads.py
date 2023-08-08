@@ -24,6 +24,7 @@ with open('Operating expense.csv', 'r') as csvfile:
             continue 
 
         # Find total value for each overhead
+
         if overhead in overhead_totals:
             overhead_totals[overhead] += (value)
         else:

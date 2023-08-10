@@ -7,8 +7,8 @@ overhead_totals = {}
 with open('Overheads.csv', 'r') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
-        overhead = row['Category']
-        value = float(row['Overheads'])
+        overhead = row['Category ']
+        value = float(row['Overheads '])
 
         # Find total value for each overhead
         if overhead in overhead_totals:

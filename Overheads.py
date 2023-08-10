@@ -1,10 +1,10 @@
 import csv
 
 # Define a dictionary to store the total value for each overhead
-overhead_totals = {}
+overhead_totals = []
 
 # Read the CSV file
-with open('overheads.csv', 'r') as csvfile:
+with open('Overheads.csv', 'r') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         overhead = row['Category']

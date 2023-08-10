@@ -1,0 +1,799 @@
+Day ,Items ,Note ,Amount 
+90,Human Resource Expense,Counselled,2000
+90,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+90,Salary Expense,Cash Payment - Salary Expense,30668
+90,Rental Expense,Cash Payment - Rental - Chicago,4800
+90,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+90,Rental Expense,Cash Payment - Rental - New York,4020
+90,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,270
+90,Rental Expense,Cash Payment - Rental - Detroit,1000
+89,Human Resource Expense,Counselled,2000
+89,Human Resource Expense,Counselled,2000
+89,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+89,Salary Expense,Cash Payment - Salary Expense,30668
+89,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 319,15000
+89,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 322,15000
+89,Rental Expense,Cash Payment - Rental - Chicago,4800
+89,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+89,Rental Expense,Cash Payment - Rental - New York,4020
+89,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,390
+89,Rental Expense,Cash Payment - Rental - Detroit,1000
+88,Human Resource Expense,Counselled,2000
+88,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+88,Salary Expense,Cash Payment - Salary Expense,30668
+88,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 12461,295
+88,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 12606,113
+88,Rental Expense,Cash Payment - Rental - Chicago,4800
+88,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+88,Rental Expense,Cash Payment - Rental - New York,4020
+88,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,510
+88,Rental Expense,Cash Payment - Rental - Detroit,1000
+87,Human Resource Expense,Counselled,2000
+87,Salary Expense,Cash Payment - Salary Expense,30668
+87,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 12453,80
+87,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 295,15000
+87,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 298,15000
+87,Rental Expense,Cash Payment - Rental - Chicago,4800
+87,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,145
+87,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+87,Rental Expense,Cash Payment - Rental - New York,4020
+87,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,630
+87,Rental Expense,Cash Payment - Rental - Detroit,1000
+86,Salary Expense,Cash Payment - Salary Expense,30576
+86,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 12315,216
+86,Rental Expense,Cash Payment - Rental - Chicago,4800
+86,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,261
+86,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+86,Rental Expense,Cash Payment - Rental - New York,4020
+86,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,750
+86,Rental Expense,Cash Payment - Rental - Detroit,1000
+85,Human Resource Expense,Counselled,2000
+85,Salary Expense,Cash Payment - Salary Expense,30488
+85,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 11869,238
+85,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 11881,183
+85,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 11919,133
+85,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 12160,257
+85,Rental Expense,Cash Payment - Rental - Chicago,4800
+85,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,377
+85,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+85,Rental Expense,Cash Payment - Rental - New York,4020
+85,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,840
+85,Rental Expense,Cash Payment - Rental - Detroit,1000
+84,Human Resource Expense,Counselled,2000
+84,Human Resource Expense,Counselled,2000
+84,Human Resource Expense,Counselled,2000
+84,Salary Expense,Cash Payment - Salary Expense,30338
+84,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 12026,134
+84,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 319,15000
+84,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 322,15000
+84,Rental Expense,Cash Payment - Rental - Chicago,4800
+84,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,493
+84,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+84,Rental Expense,Cash Payment - Rental - New York,4020
+84,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,990
+84,Rental Expense,Cash Payment - Rental - Detroit,1000
+83,Human Resource Expense,Counselled,2000
+83,Human Resource Expense,Counselled,2000
+83,Human Resource Expense,Counselled,2000
+83,Human Resource Expense,Counselled,2000
+83,Salary Expense,Cash Payment - Salary Expense,30288
+83,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 11428,194
+83,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 11741,100
+83,Rental Expense,Cash Payment - Rental - Chicago,4800
+83,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+83,Rental Expense,Cash Payment - Rental - New York,4020
+83,Rental Expense,Cash Payment - Rental - Detroit,1000
+82,Human Resource Expense,Counselled,2000
+82,Human Resource Expense,Counselled,2000
+82,Salary Expense,Cash Payment - Salary Expense,30288
+82,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 295,15000
+82,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 298,15000
+82,Rental Expense,Cash Payment - Rental - Chicago,4800
+82,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+82,Rental Expense,Cash Payment - Rental - New York,4020
+82,Rental Expense,Cash Payment - Rental - Detroit,1000
+81,Salary Expense,Cash Payment - Salary Expense,30088
+81,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 11569,214
+81,Rental Expense,Cash Payment - Rental - Chicago,4800
+81,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+81,Rental Expense,Cash Payment - Rental - New York,4020
+81,Rental Expense,Cash Payment - Rental - Detroit,1000
+80,Human Resource Expense,Counselled,2000
+80,Human Resource Expense,Counselled,2000
+80,Salary Expense,Cash Payment - Salary Expense,29188
+80,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 11414,195
+80,Rental Expense,Cash Payment - Rental - Chicago,4800
+80,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+80,Rental Expense,Cash Payment - Rental - New York,4020
+80,Rental Expense,Cash Payment - Rental - Detroit,1000
+79,Salary Expense,Cash Payment - Salary Expense,29188
+79,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 10848,82
+79,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 11111,93
+79,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 11270,279
+79,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 11283,284
+79,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 319,15000
+79,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 322,15000
+79,Rental Expense,Cash Payment - Rental - Chicago,4800
+79,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+79,Rental Expense,Cash Payment - Rental - New York,4020
+79,Rental Expense,Cash Payment - Rental - Detroit,1000
+78,Salary Expense,Cash Payment - Salary Expense,29188
+78,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 11092,194
+78,Rental Expense,Cash Payment - Rental - Chicago,4800
+78,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+78,Rental Expense,Cash Payment - Rental - New York,4020
+78,Rental Expense,Cash Payment - Rental - Detroit,1000
+77,Salary Expense,Cash Payment - Salary Expense,29188
+77,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 10800,128
+77,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 10958,184
+77,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 295,15000
+77,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 298,15000
+77,Rental Expense,Cash Payment - Rental - Chicago,4800
+77,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+77,Rental Expense,Cash Payment - Rental - New York,4020
+77,Rental Expense,Cash Payment - Rental - Detroit,1000
+76,Salary Expense,Cash Payment - Salary Expense,29100
+76,Depreciation Expense,Non-Cash Expense - Depreciation,10000
+76,Rental Expense,Cash Payment - Rental - Chicago,4800
+76,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+76,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,140
+76,Rental Expense,Cash Payment - Rental - New York,4020
+76,Rental Expense,Cash Payment - Rental - Detroit,1000
+75,Human Resource Expense,Counselled,2000
+75,Salary Expense,Cash Payment - Salary Expense,29016
+75,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 10593,204
+75,Depreciation Expense,Non-Cash Expense - Depreciation,10000
+75,Rental Expense,Cash Payment - Rental - Chicago,4800
+75,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+75,Rental Expense,Cash Payment - Rental - New York,4020
+75,Rental Expense,Cash Payment - Rental - Detroit,1000
+74,Human Resource Expense,Counselled,2000
+74,Salary Expense,Cash Payment - Salary Expense,28878
+74,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 10145,112
+74,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 10324,150
+74,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 10471,209
+74,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 319,15000
+74,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 322,15000
+74,Depreciation Expense,Non-Cash Expense - Depreciation,10000
+74,Rental Expense,Cash Payment - Rental - Chicago,4800
+74,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+74,Rental Expense,Cash Payment - Rental - New York,4020
+74,Rental Expense,Cash Payment - Rental - Detroit,1000
+73,Human Resource Expense,Counselled,2000
+73,Salary Expense,Cash Payment - Salary Expense,28832
+73,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 10293,109
+73,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 10315,239
+73,Depreciation Expense,Non-Cash Expense - Depreciation,10000
+73,Rental Expense,Cash Payment - Rental - Chicago,4800
+73,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+73,Rental Expense,Cash Payment - Rental - New York,4020
+73,Rental Expense,Cash Payment - Rental - Detroit,1000
+72,Human Resource Expense,Counselled,2000
+72,Human Resource Expense,Counselled,2000
+72,Human Resource Expense,Counselled,2000
+72,Salary Expense,Cash Payment - Salary Expense,28832
+72,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 10014,146
+72,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 295,15000
+72,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 298,15000
+72,Depreciation Expense,Non-Cash Expense - Depreciation,10000
+72,Rental Expense,Cash Payment - Rental - Chicago,4800
+72,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+72,Rental Expense,Cash Payment - Rental - New York,4020
+72,Rental Expense,Cash Payment - Rental - Detroit,1000
+71,Human Resource Expense,Counselled,2000
+71,Human Resource Expense,Counselled,2000
+71,Salary Expense,Cash Payment - Salary Expense,28648
+71,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 10001,98
+71,Depreciation Expense,Non-Cash Expense - Depreciation,10000
+71,Rental Expense,Cash Payment - Rental - Chicago,4800
+71,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,116
+71,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+71,Rental Expense,Cash Payment - Rental - New York,4020
+71,Rental Expense,Cash Payment - Rental - Detroit,1000
+70,Human Resource Expense,Counselled,2000
+70,Human Resource Expense,Counselled,2000
+70,Salary Expense,Cash Payment - Salary Expense,27820
+70,Depreciation Expense,Non-Cash Expense - Depreciation,10000
+70,Rental Expense,Cash Payment - Rental - Chicago,4800
+70,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+70,Rental Expense,Cash Payment - Rental - New York,4020
+70,Rental Expense,Cash Payment - Rental - Detroit,1000
+69,Salary Expense,Cash Payment - Salary Expense,27820
+69,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 9665,130
+69,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 319,15000
+69,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 322,15000
+69,Depreciation Expense,Non-Cash Expense - Depreciation,10000
+69,Rental Expense,Cash Payment - Rental - Chicago,4800
+69,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+69,Rental Expense,Cash Payment - Rental - New York,4020
+69,Rental Expense,Cash Payment - Rental - Detroit,1000
+68,Human Resource Expense,Counselled,2000
+68,Human Resource Expense,Counselled,2000
+68,Salary Expense,Cash Payment - Salary Expense,27820
+68,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 9512,60
+68,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 9523,55
+68,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 9530,45
+68,Depreciation Expense,Non-Cash Expense - Depreciation,10000
+68,Rental Expense,Cash Payment - Rental - Chicago,4800
+68,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+68,Rental Expense,Cash Payment - Rental - New York,4020
+68,Rental Expense,Cash Payment - Rental - Detroit,1000
+67,Human Resource Expense,Counselled,2000
+67,Salary Expense,Cash Payment - Salary Expense,27820
+67,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 9372,68
+67,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 9380,65
+67,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 295,15000
+67,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 298,15000
+67,Depreciation Expense,Non-Cash Expense - Depreciation,10000
+67,Rental Expense,Cash Payment - Rental - Chicago,4800
+67,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+67,Rental Expense,Cash Payment - Rental - New York,4020
+67,Rental Expense,Cash Payment - Rental - Detroit,1000
+66,Salary Expense,Cash Payment - Salary Expense,27736
+66,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 9058,88
+66,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 9067,55
+66,Depreciation Expense,Non-Cash Expense - Depreciation,10000
+66,Rental Expense,Cash Payment - Rental - Chicago,4800
+66,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+66,Rental Expense,Cash Payment - Rental - New York,4020
+66,Rental Expense,Cash Payment - Rental - Detroit,1000
+65,Human Resource Expense,Counselled,2000
+65,Salary Expense,Cash Payment - Salary Expense,27656
+65,Depreciation Expense,Non-Cash Expense - Depreciation,10000
+65,Rental Expense,Cash Payment - Rental - Chicago,4800
+65,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+65,Rental Expense,Cash Payment - Rental - New York,4020
+65,Rental Expense,Cash Payment - Rental - Detroit,1000
+64,Salary Expense,Cash Payment - Salary Expense,27524
+64,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 8910,63
+64,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 319,15000
+64,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 322,15000
+64,Depreciation Expense,Non-Cash Expense - Depreciation,15000
+64,Rental Expense,Cash Payment - Rental - Chicago,4800
+64,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+64,Rental Expense,Cash Payment - Rental - New York,4020
+64,Rental Expense,Cash Payment - Rental - Detroit,1000
+63,Human Resource Expense,Counselled,2000
+63,Salary Expense,Cash Payment - Salary Expense,27480
+63,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+63,Rental Expense,Cash Payment - Rental - Chicago,4800
+63,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+63,Rental Expense,Cash Payment - Rental - New York,4020
+63,Rental Expense,Cash Payment - Rental - Detroit,1000
+62,Salary Expense,Cash Payment - Salary Expense,27480
+62,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 295,15000
+62,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 298,15000
+62,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+62,Rental Expense,Cash Payment - Rental - Chicago,4800
+62,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+62,Rental Expense,Cash Payment - Rental - New York,4020
+62,Rental Expense,Cash Payment - Rental - Detroit,1000
+61,Human Resource Expense,Counselled,2000
+61,Human Resource Expense,Counselled,2000
+61,Salary Expense,Cash Payment - Salary Expense,27304
+61,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+61,Rental Expense,Cash Payment - Rental - Chicago,3200
+61,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+61,Rental Expense,Cash Payment - Rental - New York,4020
+61,Rental Expense,Cash Payment - Rental - Detroit,1000
+60,Human Resource Expense,Counselled,2000
+60,Salary Expense,Cash Payment - Salary Expense,26512
+60,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+60,Overflow Expense - Warehouse,Cash Payment - Overflow Fee - Chicago,1215
+60,Rental Expense,Cash Payment - Rental - Chicago,3200
+60,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+60,Rental Expense,Cash Payment - Rental - New York,4020
+60,Rental Expense,Cash Payment - Rental - Detroit,1000
+59,Human Resource Expense,Counselled,2000
+59,Salary Expense,Cash Payment - Salary Expense,26512
+59,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 319,15000
+59,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 322,15000
+59,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+59,Overflow Expense - Warehouse,Cash Payment - Overflow Fee - Chicago,1820
+59,Rental Expense,Cash Payment - Rental - Chicago,3200
+59,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+59,Rental Expense,Cash Payment - Rental - New York,4020
+59,Rental Expense,Cash Payment - Rental - Detroit,1000
+58,Salary Expense,Cash Payment - Salary Expense,26512
+58,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+58,Overflow Expense - Warehouse,Cash Payment - Overflow Fee - Chicago,1410
+58,Rental Expense,Cash Payment - Rental - Chicago,3200
+58,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+58,Rental Expense,Cash Payment - Rental - New York,4020
+58,Rental Expense,Cash Payment - Rental - Detroit,1000
+57,Human Resource Expense,Counselled,2000
+57,Salary Expense,Cash Payment - Salary Expense,26512
+57,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 295,15000
+57,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 298,15000
+57,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+57,Overflow Expense - Warehouse,Cash Payment - Overflow Fee - Chicago,580
+57,Rental Expense,Cash Payment - Rental - Chicago,3200
+57,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+57,Rental Expense,Cash Payment - Rental - New York,4020
+57,Rental Expense,Cash Payment - Rental - Detroit,1000
+56,Human Resource Expense,Counselled,2000
+56,Salary Expense,Cash Payment - Salary Expense,26432
+56,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+56,Overflow Expense - Warehouse,Cash Payment - Overflow Fee - Chicago,535
+56,Rental Expense,Cash Payment - Rental - Chicago,3200
+56,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+56,Rental Expense,Cash Payment - Rental - New York,4020
+56,Rental Expense,Cash Payment - Rental - Detroit,1000
+55,Salary Expense,Cash Payment - Salary Expense,26356
+55,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+55,Overflow Expense - Warehouse,Cash Payment - Overflow Fee - Chicago,70
+55,Rental Expense,Cash Payment - Rental - Chicago,3200
+55,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+55,Rental Expense,Cash Payment - Rental - New York,4020
+55,Rental Expense,Cash Payment - Rental - Detroit,1000
+54,Human Resource Expense,Counselled,2000
+54,Salary Expense,Cash Payment - Salary Expense,26230
+54,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 319,15000
+54,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 322,15000
+54,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+54,Overflow Expense - Warehouse,Cash Payment - Overflow Fee - Chicago,840
+54,Rental Expense,Cash Payment - Rental - Chicago,3200
+54,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+54,Rental Expense,Cash Payment - Rental - New York,4020
+54,Rental Expense,Cash Payment - Rental - Detroit,1000
+53,Human Resource Expense,Counselled,2000
+53,Salary Expense,Cash Payment - Salary Expense,26188
+53,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+53,Overflow Expense - Warehouse,Cash Payment - Overflow Fee - Chicago,1095
+53,Rental Expense,Cash Payment - Rental - Chicago,3200
+53,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+53,Rental Expense,Cash Payment - Rental - New York,4020
+53,Rental Expense,Cash Payment - Rental - Detroit,1000
+52,Human Resource Expense,Counselled,2000
+52,Salary Expense,Cash Payment - Salary Expense,26188
+52,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 7023,82
+52,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 295,15000
+52,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 298,15000
+52,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+52,Rental Expense,Cash Payment - Rental - Chicago,3200
+52,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+52,Rental Expense,Cash Payment - Rental - New York,4020
+52,Rental Expense,Cash Payment - Rental - Detroit,1000
+51,Human Resource Expense,Counselled,2000
+51,Salary Expense,Cash Payment - Salary Expense,26020
+51,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+51,Rental Expense,Cash Payment - Rental - Chicago,3200
+51,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+51,Rental Expense,Cash Payment - Rental - New York,4020
+51,Rental Expense,Cash Payment - Rental - Detroit,1000
+50,Human Resource Expense,Counselled,2000
+50,Human Resource Expense,Counselled,2000
+50,Salary Expense,Cash Payment - Salary Expense,25264
+50,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 6735,215
+50,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+50,Rental Expense,Cash Payment - Rental - Chicago,3200
+50,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+50,Rental Expense,Cash Payment - Rental - New York,4020
+50,Rental Expense,Cash Payment - Rental - Detroit,1000
+49,Human Resource Expense,Counselled,2000
+49,Salary Expense,Cash Payment - Salary Expense,25264
+49,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 6466,311
+49,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 319,15000
+49,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 322,15000
+49,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+49,Rental Expense,Cash Payment - Rental - Chicago,3200
+49,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+49,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,70
+49,Rental Expense,Cash Payment - Rental - New York,4020
+49,Rental Expense,Cash Payment - Rental - Detroit,1000
+48,Human Resource Expense,Counselled,2000
+48,Human Resource Expense,Counselled,2000
+48,Salary Expense,Cash Payment - Salary Expense,25264
+48,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+48,Rental Expense,Cash Payment - Rental - Chicago,3200
+48,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+48,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,420
+48,Rental Expense,Cash Payment - Rental - New York,4020
+48,Rental Expense,Cash Payment - Rental - Detroit,1000
+47,Salary Expense,Cash Payment - Salary Expense,25264
+47,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 6319,65
+47,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 295,15000
+47,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 298,15000
+47,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+47,Rental Expense,Cash Payment - Rental - Chicago,3200
+47,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+47,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,700
+47,Rental Expense,Cash Payment - Rental - New York,4020
+47,Rental Expense,Cash Payment - Rental - Detroit,1000
+46,Human Resource Expense,Counselled,2000
+46,Human Resource Expense,Counselled,2000
+46,Salary Expense,Cash Payment - Salary Expense,25188
+46,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 6103,134
+46,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 6162,179
+46,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+46,Rental Expense,Cash Payment - Rental - Chicago,3200
+46,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,87
+46,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+46,Rental Expense,Cash Payment - Rental - New York,4020
+46,Rental Expense,Cash Payment - Rental - Detroit,1000
+45,Human Resource Expense,Counselled,2000
+45,Salary Expense,Cash Payment - Salary Expense,25116
+45,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5955,70
+45,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 6022,158
+45,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+45,Rental Expense,Cash Payment - Rental - Chicago,3200
+45,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,232
+45,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+45,Rental Expense,Cash Payment - Rental - New York,4020
+45,Rental Expense,Cash Payment - Rental - Detroit,1000
+44,Human Resource Expense,Counselled,2000
+44,Human Resource Expense,Counselled,2000
+44,Salary Expense,Cash Payment - Salary Expense,24996
+44,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5855,139
+44,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5861,220
+44,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 319,15000
+44,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 322,15000
+44,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+44,Rental Expense,Cash Payment - Rental - Chicago,3200
+44,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,348
+44,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+44,Rental Expense,Cash Payment - Rental - New York,4020
+44,Rental Expense,Cash Payment - Rental - Detroit,1000
+43,Human Resource Expense,Counselled,2000
+43,Salary Expense,Cash Payment - Salary Expense,24956
+43,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5713,95
+43,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+43,Rental Expense,Cash Payment - Rental - Chicago,3200
+43,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,464
+43,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+43,Rental Expense,Cash Payment - Rental - New York,4020
+43,Rental Expense,Cash Payment - Rental - Detroit,1000
+42,Human Resource Expense,Counselled,2000
+42,Salary Expense,Cash Payment - Salary Expense,24956
+42,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5280,142
+42,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 295,15000
+42,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 298,15000
+42,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+42,Overflow Expense - Warehouse,Cash Payment - Overflow Fee - Chicago,970
+42,Rental Expense,Cash Payment - Rental - Chicago,3200
+42,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,609
+42,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+42,Rental Expense,Cash Payment - Rental - New York,4020
+42,Rental Expense,Cash Payment - Rental - Detroit,1000
+41,Salary Expense,Cash Payment - Salary Expense,24796
+41,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5422,189
+41,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5439,251
+41,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+41,Overflow Expense - Warehouse,Cash Payment - Overflow Fee - Chicago,3395
+41,Rental Expense,Cash Payment - Rental - Chicago,3200
+41,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,754
+41,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+41,Rental Expense,Cash Payment - Rental - New York,4020
+41,Rental Expense,Cash Payment - Rental - Detroit,1000
+40,Human Resource Expense,Counselled,2000
+40,Human Resource Expense,Counselled,2000
+40,Salary Expense,Cash Payment - Salary Expense,24076
+40,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5161,21
+40,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+40,Overflow Expense - Warehouse,Cash Payment - Overflow Fee - Chicago,2615
+40,Rental Expense,Cash Payment - Rental - Chicago,3200
+40,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,899
+40,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+40,Rental Expense,Cash Payment - Rental - New York,4020
+40,Rental Expense,Cash Payment - Rental - Detroit,1000
+39,Salary Expense,Cash Payment - Salary Expense,24076
+39,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5134,308
+39,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 319,15000
+39,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 322,15000
+39,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+39,Overflow Expense - Warehouse,Cash Payment - Overflow Fee - Chicago,585
+39,Rental Expense,Cash Payment - Rental - Chicago,3200
+39,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+39,Rental Expense,Cash Payment - Rental - New York,4020
+39,Rental Expense,Cash Payment - Rental - Detroit,1000
+38,Human Resource Expense,Counselled,2000
+38,Salary Expense,Cash Payment - Salary Expense,24076
+38,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 4503,214
+38,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 4982,109
+38,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5002,119
+38,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+38,Rental Expense,Cash Payment - Rental - Chicago,3200
+38,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+38,Rental Expense,Cash Payment - Rental - New York,4020
+38,Rental Expense,Cash Payment - Rental - Detroit,1000
+37,Human Resource Expense,Counselled,2000
+37,Human Resource Expense,Counselled,2000
+37,Human Resource Expense,Counselled,2000
+37,Human Resource Expense,Counselled,2000
+37,Salary Expense,Cash Payment - Salary Expense,24076
+37,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 295,15000
+37,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 298,15000
+37,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+37,Rental Expense,Cash Payment - Rental - Chicago,3200
+37,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+37,Rental Expense,Cash Payment - Rental - New York,4020
+37,Rental Expense,Cash Payment - Rental - Detroit,1000
+36,Salary Expense,Cash Payment - Salary Expense,24004
+36,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 4546,233
+36,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+36,Rental Expense,Cash Payment - Rental - Chicago,3200
+36,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+36,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,1120
+36,Rental Expense,Cash Payment - Rental - New York,4020
+36,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,690
+36,Rental Expense,Cash Payment - Rental - Detroit,1000
+35,Human Resource Expense,Counselled,2000
+35,Salary Expense,Cash Payment - Salary Expense,23932
+35,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 4533,150
+35,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 4540,188
+35,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+35,Rental Expense,Cash Payment - Rental - Chicago,3200
+35,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+35,Rental Expense,Cash Payment - Rental - New York,4020
+35,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,870
+35,Rental Expense,Cash Payment - Rental - Detroit,1000
+34,Human Resource Expense,Counselled,2000
+34,Salary Expense,Cash Payment - Salary Expense,23818
+34,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 4376,100
+34,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 319,15000
+34,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 322,15000
+34,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+34,Rental Expense,Cash Payment - Rental - Chicago,3200
+34,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+34,Rental Expense,Cash Payment - Rental - New York,4020
+34,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,1050
+34,Rental Expense,Cash Payment - Rental - Detroit,1000
+33,Human Resource Expense,Counselled,2000
+33,Salary Expense,Cash Payment - Salary Expense,23780
+33,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 4223,82
+33,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+33,Rental Expense,Cash Payment - Rental - Chicago,3200
+33,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+33,Rental Expense,Cash Payment - Rental - New York,4020
+33,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,1200
+33,Rental Expense,Cash Payment - Rental - Detroit,1000
+32,Human Resource Expense,Counselled,2000
+32,Salary Expense,Cash Payment - Salary Expense,23780
+32,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 3944,149
+32,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 4044,210
+32,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 295,15000
+32,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 298,15000
+32,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+32,Rental Expense,Cash Payment - Rental - Chicago,3200
+32,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+32,Rental Expense,Cash Payment - Rental - New York,4020
+32,Rental Expense,Cash Payment - Rental - Detroit,1000
+31,Salary Expense,Cash Payment - Salary Expense,23628
+31,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 3884,112
+31,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 3895,69
+31,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+31,Overflow Expense - Warehouse,Cash Payment - Overflow Fee - Chicago,710
+31,Rental Expense,Cash Payment - Rental - Chicago,2400
+31,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+31,Rental Expense,Cash Payment - Rental - New York,4020
+31,Rental Expense,Cash Payment - Rental - Detroit,1000
+30,Human Resource Expense,Counselled,2000
+30,Human Resource Expense,Counselled,2000
+30,Salary Expense,Cash Payment - Salary Expense,22944
+30,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 3704,215
+30,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 3717,283
+30,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+30,Overflow Expense - Warehouse,Cash Payment - Overflow Fee - Chicago,620
+30,Rental Expense,Cash Payment - Rental - Chicago,2400
+30,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+30,Rental Expense,Cash Payment - Rental - New York,4020
+30,Rental Expense,Cash Payment - Rental - Detroit,1000
+29,Salary Expense,Cash Payment - Salary Expense,22944
+29,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 319,15000
+29,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 322,15000
+29,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+29,Overflow Expense - Warehouse,Cash Payment - Overflow Fee - Chicago,290
+29,Rental Expense,Cash Payment - Rental - Chicago,2400
+29,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+29,Rental Expense,Cash Payment - Rental - New York,4020
+29,Rental Expense,Cash Payment - Rental - Detroit,1000
+28,Salary Expense,Cash Payment - Salary Expense,22944
+28,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 3383,194
+28,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+28,Overflow Expense - Warehouse,Cash Payment - Overflow Fee - Chicago,730
+28,Rental Expense,Cash Payment - Rental - Chicago,2400
+28,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+28,Rental Expense,Cash Payment - Rental - New York,4020
+28,Rental Expense,Cash Payment - Rental - Detroit,1000
+27,Human Resource Expense,Counselled,2000
+27,Human Resource Expense,Counselled,2000
+27,Salary Expense,Cash Payment - Salary Expense,22944
+27,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 3236,242
+27,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 295,15000
+27,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 298,15000
+27,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+27,Overflow Expense - Warehouse,Cash Payment - Overflow Fee - Chicago,775
+27,Rental Expense,Cash Payment - Rental - Chicago,2400
+27,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+27,Rental Expense,Cash Payment - Rental - New York,4020
+27,Rental Expense,Cash Payment - Rental - Detroit,1000
+26,Human Resource Expense,Cash Payment - Staff Recruiting - Detroit,60000
+26,Human Resource Expense,Counselled,2000
+26,Salary Expense,Cash Payment - Salary Expense,22872
+26,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 3082,339
+26,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+26,Overflow Expense - Warehouse,Cash Payment - Overflow Fee - Chicago,780
+26,Rental Expense,Cash Payment - Rental - Chicago,2400
+26,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+26,Rental Expense,Cash Payment - Rental - New York,4020
+26,Rental Expense,Cash Payment - Rental - Detroit,1000
+25,Human Resource Expense,Counselled,2000
+25,Salary Expense,Cash Payment - Salary Expense,21472
+25,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 2788,344
+25,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 2946,276
+25,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+25,Rental Expense,Cash Payment - Rental - Chicago,2400
+25,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+25,Rental Expense,Cash Payment - Rental - New York,4020
+24,Salary Expense,Cash Payment - Salary Expense,21364
+24,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 2618,228
+24,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 2780,400
+24,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 319,15000
+24,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 322,15000
+24,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+24,Rental Expense,Cash Payment - Rental - Chicago,2400
+24,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+24,Rental Expense,Cash Payment - Rental - New York,4020
+23,Human Resource Expense,Counselled,2000
+23,Salary Expense,Cash Payment - Salary Expense,21328
+23,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 2195,317
+23,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 2440,396
+23,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+23,Overflow Expense - Warehouse,Cash Payment - Overflow Fee - Chicago,230
+23,Rental Expense,Cash Payment - Rental - Chicago,2400
+23,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+23,Rental Expense,Cash Payment - Rental - New York,4020
+22,Human Resource Expense,Counselled,2000
+22,Human Resource Expense,Counselled,2000
+22,Salary Expense,Cash Payment - Salary Expense,21328
+22,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 2294,115
+22,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 295,15000
+22,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 298,15000
+22,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+22,Rental Expense,Cash Payment - Rental - Chicago,2400
+22,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+22,Rental Expense,Cash Payment - Rental - New York,4020
+21,Human Resource Expense,Counselled,2000
+21,Salary Expense,Cash Payment - Salary Expense,21184
+21,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 2137,82
+21,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 2275,165
+21,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+21,Rental Expense,Cash Payment - Rental - Chicago,2400
+21,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+21,Rental Expense,Cash Payment - Rental - New York,4020
+20,Salary Expense,Cash Payment - Salary Expense,20536
+20,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+20,Rental Expense,Cash Payment - Rental - Chicago,2400
+20,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+20,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,560
+20,Rental Expense,Cash Payment - Rental - New York,4020
+19,Human Resource Expense,Counselled,2000
+19,Human Resource Expense,Counselled,2000
+19,Salary Expense,Cash Payment - Salary Expense,20536
+19,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 1972,163
+19,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 319,15000
+19,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 322,15000
+19,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+19,Rental Expense,Cash Payment - Rental - Chicago,2400
+19,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+19,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,1120
+19,Rental Expense,Cash Payment - Rental - New York,4020
+18,Human Resource Expense,Counselled,2000
+18,Salary Expense,Cash Payment - Salary Expense,20536
+18,Interest Expense ,Cash Payment - Interest - For Overdraft Used,1027
+18,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+18,Overflow Expense - Warehouse,Cash Payment - Overflow Fee - Chicago,50
+18,Rental Expense,Cash Payment - Rental - Chicago,2400
+18,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+18,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,1610
+18,Rental Expense,Cash Payment - Rental - New York,4020
+17,Human Resource Expense,Cash Payment - Staff Recruiting - Production,30000
+17,Human Resource Expense,Counselled,2000
+17,Human Resource Expense,Cash Payment - Staff Recruiting - Production,30000
+17,Salary Expense,Cash Payment - Salary Expense,20536
+17,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 1660,128
+17,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 295,15000
+17,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 298,15000
+17,Interest Expense ,Cash Payment - Interest - For Overdraft Used,1027
+17,Depreciation Expense,Non-Cash Expense - Depreciation,20000
+17,Rental Expense,Cash Payment - Rental - Chicago,2400
+17,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+17,Rental Expense,Cash Payment - Rental - New York,4020
+16,Salary Expense,Cash Payment - Salary Expense,19136
+16,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 1531,171
+16,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 1545,84
+16,Depreciation Expense,Non-Cash Expense - Depreciation,10000
+16,Rental Expense,Cash Payment - Rental - Chicago,2400
+16,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+16,Rental Expense,Cash Payment - Rental - New York,4020
+15,Salary Expense,Cash Payment - Salary Expense,19136
+15,Depreciation Expense,Non-Cash Expense - Depreciation,10000
+15,Rental Expense,Cash Payment - Rental - Chicago,2400
+15,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+15,Rental Expense,Cash Payment - Rental - New York,4020
+14,Salary Expense,Cash Payment - Salary Expense,19028
+14,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 1144,120
+14,Depreciation Expense,Non-Cash Expense - Depreciation,10000
+14,Rental Expense,Cash Payment - Rental - Chicago,2400
+14,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+14,Rental Expense,Cash Payment - Rental - New York,4020
+13,Human Resource Expense,Counselled,2000
+13,Salary Expense,Cash Payment - Salary Expense,18992
+13,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 1018,260
+13,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 1128,123
+13,Depreciation Expense,Non-Cash Expense - Depreciation,10000
+13,Rental Expense,Cash Payment - Rental - Chicago,2400
+13,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+13,Rental Expense,Cash Payment - Rental - New York,4020
+12,Human Resource Expense,Counselled,2000
+12,Human Resource Expense,Counselled,2000
+12,Salary Expense,Cash Payment - Salary Expense,18992
+12,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 992,174
+12,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 295,15000
+12,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 298,15000
+12,Depreciation Expense,Non-Cash Expense - Depreciation,10000
+12,Rental Expense,Cash Payment - Rental - Chicago,2400
+12,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+12,Rental Expense,Cash Payment - Rental - New York,4020
+11,Salary Expense,Cash Payment - Salary Expense,18848
+11,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 890,87
+11,Depreciation Expense,Non-Cash Expense - Depreciation,10000
+11,Rental Expense,Cash Payment - Rental - Chicago,2400
+11,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+11,Rental Expense,Cash Payment - Rental - New York,4020
+10,Human Resource Expense,Counselled,2000
+10,Salary Expense,Cash Payment - Salary Expense,18200
+10,Interest Expense ,Cash Payment - Interest - For Overdraft Used,1027
+10,Depreciation Expense,Non-Cash Expense - Depreciation,10000
+10,Rental Expense,Cash Payment - Rental - Chicago,2400
+10,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+10,Rental Expense,Cash Payment - Rental - New York,4020
+9,Salary Expense,Cash Payment - Salary Expense,18200
+9,Depreciation Expense,Non-Cash Expense - Depreciation,10000
+9,Rental Expense,Cash Payment - Rental - Chicago,2400
+9,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+9,Rental Expense,Cash Payment - Rental - New York,4020
+8,Human Resource Expense,Counselled,2000
+8,Salary Expense,Cash Payment - Salary Expense,18200
+8,Depreciation Expense,Non-Cash Expense - Depreciation,10000
+8,Rental Expense,Cash Payment - Rental - Chicago,2400
+8,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+8,Rental Expense,Cash Payment - Rental - New York,4020
+7,Salary Expense,Cash Payment - Salary Expense,18200
+7,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 295,15000
+7,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 298,15000
+7,Depreciation Expense,Non-Cash Expense - Depreciation,10000
+7,Rental Expense,Cash Payment - Rental - Chicago,2400
+7,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+7,Rental Expense,Cash Payment - Rental - New York,4020
+6,Human Resource Expense,Counselled,2000
+6,Human Resource Expense,Counselled,2000
+6,Human Resource Expense,Counselled,2000
+6,Salary Expense,Cash Payment - Salary Expense,18200
+6,Depreciation Expense,Non-Cash Expense - Depreciation,10000
+6,Rental Expense,Cash Payment - Rental - Chicago,2400
+6,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+6,Rental Expense,Cash Payment - Rental - New York,4020
+5,Human Resource Expense,Cash Payment - Staff Recruiting - Production,30000
+5,Human Resource Expense,Cash Payment - Staff Recruiting - New York,60000
+5,Salary Expense,Cash Payment - Salary Expense,18200
+5,Depreciation Expense,Non-Cash Expense - Depreciation,10000
+5,Rental Expense,Cash Payment - Rental - Chicago,2400
+5,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+5,Rental Expense,Cash Payment - Rental - New York,4020
+4,Human Resource Expense,Counselled,2000
+4,Human Resource Expense,Counselled,2000
+4,Human Resource Expense,Cash Payment - Staff Recruiting - Production,30000
+4,Salary Expense,Cash Payment - Salary Expense,16100
+4,Depreciation Expense,Non-Cash Expense - Depreciation,5000
+4,Rental Expense,Cash Payment - Rental - Chicago,2400
+4,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+3,Salary Expense,Cash Payment - Salary Expense,15400
+3,Rental Expense,Cash Payment - Rental - Chicago,2400
+3,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+2,Human Resource Expense,Cash Payment - Staff Recruiting - Chicago,60000
+2,Human Resource Expense,Cash Payment - Staff Recruiting - Los Angeles,60000
+2,Salary Expense,Cash Payment - Salary Expense,15400
+2,Rental Expense,Cash Payment - Rental - Chicago,2400
+2,Rental Expense,Cash Payment - Rental - Los Angeles,1080
+1,Salary Expense,Cash Payment - Salary Expense,12600

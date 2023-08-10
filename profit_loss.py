@@ -1,50 +1,38 @@
 import csv
 
-data_list = []
-with open('profit_loss.csv', 'r') as csv_file:
-    csv_reader = csv.reader(csv_file)
-    for row in csv_reader:
-        data_list.append(row)
+def find_profit_changes(filename):
+    with open(filename, 'r') as file:
+        reader = csv.DictReader(file)
+        previous_day = None
+        previous_net_profit = None
+        highest_increment_day = None
+        highest_increment_amount = 0
 
-# Process the data
-for row in data_list:
-    print(row)
+        for row in reader:
+            day = int(row['Day'])
+            net_profit = float(row['Net Profit'])
 
+            if previous_day is not None:
+                if net_profit < previous_net_profit:
+                    # Compute the difference in net profit
+                    difference = previous_net_profit - net_profit
+                    print(f"Day {day}: Decrease in Net Profit by {difference:.2f}")
+                elif net_profit > previous_net_profit:
+                    # Check for the highest increment in net profit
+                    increment = net_profit - previous_net_profit
+                    if increment > highest_increment_amount:
+                        highest_increment_day = day
+                        highest_increment_amount = increment
 
-highest_diff_day = 0
-highest_diff = 0
+            # Update previous_day and previous_net_profit
+            previous_day = day
+            previous_net_profit = net_profit
 
-# Open the CSV file
-with open('profit_loss.csv', 'r') as file:
-    reader = csv.DictReader(file)
+        if highest_increment_day is not None:
+            print(f"Highest increment occurred on Day {highest_increment_day} with an amount of {highest_increment_amount:.2f}")
+        else:
+            print("No increasing trend found in Net Profit.")
 
-    # declaring variables
-    previous_day = 0
-    previous_day_coh = 0
-
-    # define over each row in the CSV file
-    for row in reader:
-        current_day = int(row['Day'])
-        coh = int(row['Cash On Hand'])
-
-        if previous_day < current_day:
-            increment = coh - previous_day_coh
-
-            # Update the highest increment
-            if increment > highest_diff:
-                highest_diff = increment
-                highest_diff_day = current_day
-            
-        # Update previous day's data
-        previous_day = current_day
-        previous_day_coh = coh
-
-if highest_diff_day is not None:
-    print(f"Highest increment occurred on Day {highest_diff_day} with an amount of {highest_diff:.2f}")
-else:
-    print("No increment found")
-
-
-
-
-
+# Provide the CSV file path here
+csv_filename = 'profit_loss.csv'
+find_profit_changes(csv_filename)

@@ -1,5 +1,3 @@
-
-
 import csv
 
 data_list = []

@@ -33,25 +33,3 @@ if highest_diff_day is not None:
     print(f"Highest increment occurred on Day {highest_diff_day} with an amount of {highest_diff:.2f}")
 else:
     print("No increment found")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

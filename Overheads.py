@@ -1,7 +1,7 @@
 import csv
 
 # Define a dictionary to store the total value for each overhead
-overhead_totals = {}
+overhead_totals = []
 
 # Read the CSV file
 with open('Overheads.csv', 'r') as csvfile:

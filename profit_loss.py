@@ -20,15 +20,15 @@ with open('profit_loss.csv', 'r') as file:
 
     # declaring variables
     previous_day = 0
-    previous_day_coh = 0
+    previous_day_sale = 0
 
     # define over each row in the CSV file
     for row in reader:
         current_day = int(row['Day'])
-        coh = int(row['Cash On Hand'])
+        sales = int(row['Sales'])
 
         if previous_day < current_day:
-            increment = coh - previous_day_coh
+            increment = sales - previous_day_sale
 
             # Update the highest increment
             if increment > highest_diff:
@@ -37,7 +37,7 @@ with open('profit_loss.csv', 'r') as file:
             
         # Update previous day's data
         previous_day = current_day
-        previous_day_coh = coh
+        previous_day_sale = sales
 
 if highest_diff_day is not None:
     print(f"Highest increment occurred on Day {highest_diff_day} with an amount of {highest_diff:.2f}")

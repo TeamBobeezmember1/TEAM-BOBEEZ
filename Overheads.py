@@ -29,10 +29,9 @@ with open('Overheads.csv', 'r') as csvfile:
         else:
             overhead_totals[overhead] = (value)
 
-        # Determine highest overhead
-        if float(value) > highest_value:
-            highest_value = (value)
-            highest_overhead = overhead
+# Determine highest overhead
+highest_overhead = max(overhead_totals, key=overhead_totals.get)
+highest_value = overhead_totals[highest_overhead]
     
 # Print the total value for each overhead
 for overhead, total_value in overhead_totals.items():

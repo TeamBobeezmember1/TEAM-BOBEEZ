@@ -3,7 +3,7 @@ import csv
 # Main function to calculate cash deficits
 def cash_on_hand_function():
     cash_data = []  # Fix: Initialize as an empty list
-    COH_final = 0 
+    
     
     # Open the CSV file containing cash-on-hand data
     with open('COH_final.csv', 'r') as file:

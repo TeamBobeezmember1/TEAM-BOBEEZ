@@ -4,7 +4,7 @@ import csv
 overhead_totals = {}
 
 # Read the CSV file
-with open('Overheads.csv', 'r') as csvfile:
+with open('overheads.csv', 'r') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         overhead = row['Category']

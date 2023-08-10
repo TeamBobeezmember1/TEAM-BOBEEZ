@@ -3,7 +3,7 @@ import csv
 # Main function to calculate profit deficits
 def net_profit_function():
     net_profit_data = []  # Fix: Initialize as an empty list
-    profit_loss_final = 0 
+    
     
     # Open the CSV file containing profit and loss data
     with open('profit_loss.csv', 'r') as file:

@@ -1,48 +1,35 @@
 import csv
 
-data_list = []
-with open('profit_loss.csv', 'r') as csv_file:
-    csv_reader = csv.reader(csv_file)
-    for row in csv_reader:
-        data_list.append(row)
+# Main function to calculate cash deficits
+def cash_on_hand_function():
+    cash_data = []  # Fix: Initialize as an empty list
+    COH_final = 0 
+    
+    # Open the CSV file containing cash-on-hand data
+    with open('COH_final.csv', 'r') as file:
+        reader = csv.DictReader(file)
+        for row in reader:
+            cash_data.append(row)  # Fix: Append rows to cash_data
 
-# Process the data
-for row in data_list:
-    print(row)
+    # Compute the differences in cash on hand between consecutive days
+    cash_differences = compute_cash_difference(cash_data)  # Fix: Use single equal sign
+    
+    # Filter and collect days with cash deficits (amount > 0)
+    cash_deficits = [(day, amount) for day, amount in cash_differences if amount > 0]
+    print(cash_deficits)
 
+# Calculate the differences in cash on hand between consecutive days
+def compute_cash_difference(data):
+    differences = []
+    for i in range(1, len(data)):
+        current_cash = int(data[i]['Cash On Hand'])
+        previous_cash = int(data[i - 1]['Cash On Hand'])
+        difference = previous_cash - current_cash
+        differences.append((i, difference))  # Store the day index and cash difference
+    return differences
 
-highest_diff_day = 0
-highest_diff = 0
-
-# Open the CSV file
-with open('profit_loss.csv', 'r') as file:
-    reader = csv.DictReader(file)
-
-    # declaring variables
-    previous_day = 0
-    previous_day_sale = 0
-
-    # define over each row in the CSV file
-    for row in reader:
-        current_day = int(row['Day'])
-        sales = int(row['Sales'])
-
-        if previous_day < current_day:
-            increment = sales - previous_day_sale
-
-            # Update the highest increment
-            if increment > highest_diff:
-                highest_diff = increment
-                highest_diff_day = current_day
-            
-        # Update previous day's data
-        previous_day = current_day
-        previous_day_sale = sales
-
-if highest_diff_day is not None:
-    print(f"Highest increment occurred on Day {highest_diff_day} with an amount of {highest_diff:.2f}")
-else:
-    print("No increment found")
+# Call the main function
+cash_on_hand_function()
 
 
 
